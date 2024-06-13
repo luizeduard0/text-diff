@@ -88,3 +88,5 @@ declare namespace diff {
   const DIFF_INSERT: number;
   const DIFF_EQUAL: number;
 }
+
+declare module 'Diff'
